@@ -1,1 +1,1 @@
-[![Hits](https://hits.sh/github.com/silentsoft/hits.svg)](https://github.com/ourcaldo/hitsbadge/)
+[![Hits](https://github.com/ourcaldo/hitsbadge/hits.svg)](https://github.com/ourcaldo/hitsbadge/)
